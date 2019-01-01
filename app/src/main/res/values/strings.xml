@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ashraf Quiz</string>
+
+    <string name="Question1">Q1-Choose all numbers that are primaries from the following:</string>
+    <string name="q1i1">A-3</string>
+    <string name="q1i2">B-4</string>
+    <string name="q1i3">C-5</string>
+    <string name="q1i4">D-6</string>
+
+    <string name="Question2">Q2-Choose all numbers that can divide on 3 without remaining from the following:</string>
+    <string name="q2i1">A-5</string>
+    <string name="q2i2">B-8</string>
+    <string name="q2i3">C-6</string>
+    <string name="q2i4">D-7</string>
+    <string name="Question3">Q3-What is the square root of 4?</string>
+    <string name="q3i1">A-3</string>
+    <string name="q3i2">B-4</string>
+    <string name="q3i3">C-1</string>
+    <string name="q3i4">D-2</string>
+    <string name="Question4">Q4-Encode the following name “Ashraf” to be represented in numbers:(Hint: a = 01, b =02, etc...) </string>
+    <string name="Hint">Decimal number</string>
+
+</resources>
